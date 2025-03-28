@@ -1125,7 +1125,7 @@ menuDelete() {
 					if (scaleParam = 287) {
 						pos2 += 5
 					}
-					adbClick(pos1, pos2)
+					adbClick(220, pos2)
 				}
 				else {
 					adbClick(230, 506)
@@ -1193,7 +1193,7 @@ menuDeleteStart() {
 						if (scaleParam = 287) {
 							pos2 += 5
 						}
-						adbClick(pos1, pos2)
+						adbClick(220, pos2)
 					}
 					else {
 						adbClick(230, 506)
